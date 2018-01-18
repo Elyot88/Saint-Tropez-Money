@@ -4,11 +4,9 @@ The Project is to create a local money, in the famous place in South of France, 
 
 This project is brand new from 2018, here is the Whitepaper ; 
 
-
-                                             Saint-Tropez e-MoneY
-
-
-      Develop the Local economy with a Local tokken called STM (Saint-Tropez Money) that is possible to exchange with euros and other cryptocurrencies. You'll be able to spend it, specially with the local partners who signed for our Saint-Tropez-Money Exchange/Payment contract. For exemple ; Gaio famous nightclub in Saint-Tropez or Le Café that is a restaurant/bar. But it can also be Hotels, shops etc..
+        Saint-Tropez e-MoneY
+        
+Develop the Local economy with a Local tokken called STM (Saint-Tropez Money) that is possible to exchange with euros and other cryptocurrencies. You'll be able to spend it, specially with the local partners who signed for our Saint-Tropez-Money Exchange/Payment contract. For exemple ; Gaio famous nightclub in Saint-Tropez or Le Café that is a restaurant/bar. But it can also be Hotels, shops etc..
 
 The contract is signed first with companies to create a network where the user can spend his tokken STM.
 Hotels, Nighclubs, Shops are our first targets.
