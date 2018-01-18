@@ -31,3 +31,5 @@ The account of the seller will be credited of the amount, less the fees of trans
 The point is to make special prices compare to the originals prices (small dicount) if you pay with the STM.
 
 At any time the person can resell or exchange his STM coins.
+
+We are looking for some Blockchain devs and Web devs !
