@@ -29,7 +29,7 @@ The point is to make small discounts on the originals prices if you pay with the
 
 At any time, the customer who own a STM wallet can resell or exchange his STM coins.
 
-Of course there will be security features like KYC (know your customers) and 2-Step Verification codes eventually, to prevent with the application of the law.
+Of course there will be security features like KYC (know your customers) and 2-Step Verification codes eventually, to prevent any security risk, and I.D verification to in application of the law.
 
 We will make a list of all the differents companies that have signed up for contracts with us.
 
