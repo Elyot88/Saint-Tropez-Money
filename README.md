@@ -4,11 +4,11 @@ The Project is to create a local money, in the famous place in South of France, 
 
 This project is brand new from 2018, here is the Whitepaper ; 
 
-                        Saint-Tropez e-MoneY
+   Saint-Tropez MoneY
         
-Develop the Local economy with a Local tokken called STM (Saint-Tropez Money) that is possible to exchange with euros and other cryptocurrencies. You'll be able to spend it, specially with the local partners who signed for our Saint-Tropez-Money Exchange/Payment contract. For exemple ; Gaio famous nightclub in Saint-Tropez http://gaio.club or Le Café that is a restaurant/bar http://www.lecafe.fr/fr/restaurant.html. But it can also be hotels, shops etc.
+Develop the Local economy with a Local token called STM (Saint-Tropez Money) that is possible to exchange with euros and other cryptocurrencies. You'll be able to spend it, specially with the local partners who signed for our Saint-Tropez-Money Exchange/Payment contract. For exemple ; Gaio famous nightclub in Saint-Tropez http://gaio.club or Le Café that is a restaurant/bar http://www.lecafe.fr/fr/restaurant.html. But it can also be hotels, shops etc.
 
-The contract is signed first with companies to create a network where the user can spend his tokken STM.
+The contract is signed first with companies to create a network where the user can spend his token STM.
 Hotels, Nighclubs, Shops are our first targets.
 
 A Website will be created in 2018 for development of the differents stages.
@@ -19,7 +19,7 @@ First we have to make the Tokkens. We don't need a lot of Transactions per secon
 
 Secondly we have to create a wallet/application for the future users ; companies and customers.
 
-Thirdly we want to have a cryptocurrency who is stable by the price.
+Thirdly we want to have a cryptocurrency where the price is stable.
 
 When using the app, the customer will create a wallet in a shop, hotel, restaurant or a club , buy the tokkens to put it on the wallet on his phone for example, could be a  hardwarewallet called Ledger ( usb key). Then, the seller (from the shop,restaurant,hotel or club) will scan the QR code from the customer's wallet to make the transaction.
 
