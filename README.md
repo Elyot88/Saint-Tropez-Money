@@ -35,6 +35,10 @@ Of course there will be security features like KYC (know your customers) and 2-S
 
 We will make a list of all the differents companies that have signed up for contracts with us.
 
+At any time the person can resell or exchange his STM coins.
+
+We are looking for some Blockchain devs and Web devs !
+
 Anyone who wants to participate is more than welcome for brainstorming and developping the project STM.
 
  Best Regards
