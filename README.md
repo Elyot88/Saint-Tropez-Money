@@ -2,7 +2,7 @@
 
 The Project is to create a local money, in the famous place in South of France, Saint-Tropez.
 
-This project is brand new from 2018, here is the Whitepaper ; 
+This project is brand new from 2021, here is the Whitepaper ; 
 
    Saint-Tropez Money
         
@@ -13,9 +13,9 @@ You will be able to to exchange with fiat( euros/dollars) and other cryptocurren
 The contract is signed first with companies to create a network where the user can spend his token STM.
 Hotels, Nighclubs, Shops are our first targets.
 
-A Website will be created in 2018 for development of the differents stages.
+A Website will be created in 2021 for development of the differents stages.
 
-An ICO will be launched in the year of 2018 to create the tokkens, then the virtual/hardware wallet on a mobile or classic application.
+An ICO will be launched in the year of 2021 to create the tokkens, then the virtual/hardware wallet on a mobile or classic application.
  
 First we have to make the Tokkens. We don't need a lot of Transactions per second but a minimum of 20 tps(transaction per second) is required.
 
